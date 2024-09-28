@@ -1,5 +1,6 @@
+/*whole width = 470px*/
 #first_rectangle{
-  width: 190px;
+  width: 165px;
   height: 40px;
   background-color: lightgray;
   border-bottom: 5px solid black;
@@ -7,14 +8,14 @@
 }
 
 #second_rectangle{
-  width: 180px;
+  width: 160px;
   height:40px;
   background-color: rgb(223, 223, 125);
   border-bottom: 5px solid black;
   border-left: 5px solid black;
   border-right: 5px solid black;
   position: relative;
-  left:195px;
+  left:170px;
   top:-45px;
 }
 
@@ -25,17 +26,38 @@
   border-left: 5px solid black;
   border-bottom: 5px solid black;
   position: relative;
-  left: 385px;
+  left: 340px;
   top: -90px;
 }
 
 #fourth_rectangle{
   width: 20px;
-  height: 125px;
+  height: 155px;
   background-color: lightgray;
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
   position: relative;
   top: -145px;
+}
+
+#fifth_rectangle{
+  width: 305px;
+  height: 305px;
+  background-color: lightgray;
+  border: 5px solid black;
+  position: relative;
+  left: 25px;
+  top: -310px;
+}
+
+#sixth_rectangle{
+  width: 20px;
+  height: 140px;
+  background-color: blue;
+  border-top: 5px solid black;
+  border-right: 5px solid black;
+  border-bottom: 5px solid black;
+  position: relative;
+  top: -460px;
 }
