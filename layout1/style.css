@@ -61,3 +61,36 @@
   position: relative;
   top: -460px;
 }
+
+#seventh_rectangle{
+  width: 80px;
+  height: 310px;
+  background-color: lightgray;
+  border-top: 5px solid black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+  position: relative;
+  top: -720px;
+  left: 340px;
+}
+
+#eighth_rectangle{
+  width: 335px;
+  height: 80px;
+  background-color: lightgray;
+  border-top: 5px solid black;
+  border-right: 5px solid black;
+  position: relative;
+  top: -780px;
+}
+
+#ninth_rectangle{
+  width: 80px;
+  height: 20px;
+  background-color: orange;
+  border-top: 5px solid black;
+  border-left: 5px solid black;
+  position: relative;
+  top: -805px;
+  left: 340px;
+}
